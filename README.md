@@ -1,4 +1,4 @@
-# GIT 
+# Git: A Brief Introductory Cheatsheet for Beginners 
 
 ## 1. What is Git?
 
