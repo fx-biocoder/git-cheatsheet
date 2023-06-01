@@ -43,7 +43,7 @@ If you want to configure a different username and email for a specific repositor
 
 ## 3. Basic concepts
 
-![Git operations](C:\Users\marti\Desktop\git-operations.png)
+![git-operations](https://github.com/fx-biocoder/git-cheatsheet/assets/90737264/ae6f073b-6a27-40d4-b308-812ca1049c1d)
 
 In Git you have three main states: the working directory, the staging area, and the Git directory (or local repository). You can also have a remote repository connected to your Git directory. 
 
@@ -64,9 +64,9 @@ The Git directory (or local repository) stores all the important metadata for yo
 When you begin a new project, you can create a new folder to store your Git repository, which is created with `git init`
 
 ```bash
-mkdir projectfolder
-cd projectfolder
-git init
+$ mkdir projectfolder
+$ cd projectfolder
+$ git init
 ```
 
 ### See repository status
@@ -74,7 +74,7 @@ git init
 This command will show you which files have been recently modified inside the project folder.
 
 ```bash
-git status
+$ git status
 ```
 
 
@@ -201,7 +201,7 @@ Where "username" corresponds to the owner and "repositoryname" is the name of th
 ### Clone remote repository to local
 
 ```bash
-git clone repository-url
+$ git clone repository-url
 ```
 
 Where `repository-url` is the URL of the remote repository you want to clone inside your current directory.
