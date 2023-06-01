@@ -1,5 +1,7 @@
 # Git: A Brief Introductory Cheatsheet for Beginners 
 
+*Note: If you want to provide feedback on this guide (including possible additions and/or corrections), click [here](https://github.com/fx-biocoder/git-cheatsheet/issues)*
+
 ## 1. What is Git?
 
 Git is a distributed version control system used to track changes made to a set of files by individuals or groups. It is a FOSS (free and open-source) tool that is widely utilized by companies due to its efficiency and speed.
