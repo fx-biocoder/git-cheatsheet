@@ -2,8 +2,6 @@
 
 ![Git banner. Created by Facundo Martínez (c) 2023, licensed under CC BY-NC-SA 4.0](https://github.com/fx-biocoder/git-cheatsheet/assets/90737264/ecba0e06-a547-45d2-9150-2ffc1bd1297d)
 
-*Note: If you want to provide feedback on this guide (including possible additions and/or corrections), click [here](https://github.com/fx-biocoder/git-cheatsheet/issues)*
-
 ## 1. What is Git?
 
 Git is a distributed version control system used to track changes made to a set of files by individuals or groups. It is a FOSS (free and open-source) tool that is widely utilized by companies due to its efficiency and speed.
@@ -263,3 +261,5 @@ Some free external resources for learning and applying Git best practices:
 This article was created by Facundo Martínez © 2023. It is licensed under CC BY-NC-SA 4.0
 
 If you have found it beneficial, kindly consider supporting me on [Github Sponsors](https://github.com/sponsors/fx-biocoder) or [Ko-fi](https://ko-fi.com/biocoder). Your contribution will assist me in creating more high-quality free content for the benefit of all.
+
+If you want to provide feedback on this guide (including possible additions and/or corrections), click [here](https://github.com/fx-biocoder/git-cheatsheet/issues)
