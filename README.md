@@ -1,5 +1,7 @@
 # Git: A Brief Introductory Cheatsheet for Beginners 
 
+![Git banner. Created by Facundo Martínez (c) 2023, licensed under CC BY-NC-SA 4.0](https://github.com/fx-biocoder/git-cheatsheet/assets/90737264/ecba0e06-a547-45d2-9150-2ffc1bd1297d)
+
 *Note: If you want to provide feedback on this guide (including possible additions and/or corrections), click [here](https://github.com/fx-biocoder/git-cheatsheet/issues)*
 
 ## 1. What is Git?
