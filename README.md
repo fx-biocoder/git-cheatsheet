@@ -157,11 +157,17 @@ To move from a branch to another:
 $ git checkout branchname
 ```
 
+or
+
+```bash
+$ git switch branchname
+```
 Where "branchname" is the branch you want to move to.
 
 *NOTE: you can also use git-checkout to restore changed files to their latest version.*
 
 - [Read: git-checkout docs](https://git-scm.com/docs/git-checkout)
+- [Read: git-switch docs](https://git-scm.com/docs/git-switch)
 
 ### Merge branches
 
