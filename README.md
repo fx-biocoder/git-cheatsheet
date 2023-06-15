@@ -1,4 +1,6 @@
-# GIT 
+# Git: A Brief Introductory Cheatsheet for Beginners 
+
+![Git banner. Created by Facundo Martínez (c) 2023, licensed under CC BY-NC-SA 4.0](https://github.com/fx-biocoder/git-cheatsheet/assets/90737264/ecba0e06-a547-45d2-9150-2ffc1bd1297d)
 
 ## 1. What is Git?
 
@@ -43,7 +45,7 @@ If you want to configure a different username and email for a specific repositor
 
 ## 3. Basic concepts
 
-![Git operations](C:\Users\marti\Desktop\git-operations.png)
+![git-operations](https://github.com/fx-biocoder/git-cheatsheet/assets/90737264/ae6f073b-6a27-40d4-b308-812ca1049c1d)
 
 In Git you have three main states: the working directory, the staging area, and the Git directory (or local repository). You can also have a remote repository connected to your Git directory. 
 
@@ -64,9 +66,9 @@ The Git directory (or local repository) stores all the important metadata for yo
 When you begin a new project, you can create a new folder to store your Git repository, which is created with `git init`
 
 ```bash
-mkdir projectfolder
-cd projectfolder
-git init
+$ mkdir projectfolder
+$ cd projectfolder
+$ git init
 ```
 
 ### See repository status
@@ -74,7 +76,7 @@ git init
 This command will show you which files have been recently modified inside the project folder.
 
 ```bash
-git status
+$ git status
 ```
 
 
@@ -154,11 +156,17 @@ To move from a branch to another:
 $ git checkout branchname
 ```
 
+or
+
+```bash
+$ git switch branchname
+```
 Where "branchname" is the branch you want to move to.
 
 *NOTE: you can also use git-checkout to restore changed files to their latest version.*
 
 - [Read: git-checkout docs](https://git-scm.com/docs/git-checkout)
+- [Read: git-switch docs](https://git-scm.com/docs/git-switch)
 
 ### Merge branches
 
@@ -200,7 +208,7 @@ Where "username" corresponds to the owner and "repositoryname" is the name of th
 ### Clone remote repository to local
 
 ```bash
-git clone repository-url
+$ git clone repository-url
 ```
 
 Where `repository-url` is the URL of the remote repository you want to clone inside your current directory.
@@ -257,4 +265,8 @@ Some free external resources for learning and applying Git best practices:
 
 This article was created by Facundo Martínez © 2023. It is licensed under CC BY-NC-SA 4.0
 
-If you have found it beneficial, kindly consider supporting me on [Github Sponsors](https://github.com/sponsors/fx-biocoder) or [Ko-fi](https://ko-fi.com/biocoder). Your contribution will assist me in creating more high-quality free content for the benefit of all.
+I love creating free content for everyone. If my articles and repos were useful to you, please consider supporting me on Github Sponsors, Ko-Fi or PayPal. It would be of great help and I would really appreciate it!
+
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/fx-biocoder) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/biocoder) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/facumartinez680)
+
+If you want to provide feedback on this guide (including possible additions and/or corrections), click [here](https://github.com/fx-biocoder/git-cheatsheet/issues)
