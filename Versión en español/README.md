@@ -1,6 +1,5 @@
 # Git: una breve guía introductoria para principiantes
 
-
 ## 1. ¿Qué es Git?
 
 Git es un sistema de control de versiones distribuido utilizado para rastrear los cambios realizados en un conjunto de archivos por parte de individuos o grupos. Es una herramienta de código abierto (FOSS, por sus siglas en inglés) que se utiliza ampliamente en empresas debido a su eficiencia y rapidez.
@@ -38,7 +37,7 @@ Usando Homebrew:
 $ bew install git
 ```
 
-Luego de instalar git, necesitarás configurarlo estableciendo tu usuario global y e-mail:
+Luego de instalar git, necesitás configurarlo estableciendo tu usuario global y e-mail:
 
 ```bash
 $ git config --global user.name "Your username"
@@ -49,7 +48,7 @@ Si deseás configurar un nombre de usuario y e-mail diferente para un repositori
 
 ## 3. Conceptos básicos
 
-![alt text](C:\Users\marti\Desktop\opgit.png)
+![Operaciones de Git](https://github.com/fx-biocoder/git-cheatsheet/assets/90737264/8f491fb0-01e8-46d9-ada9-5cd80937b0f6)
 
 En Git, tenés tres estados principales: el directorio de trabajo, el área de preparación (staging) y el directorio Git (o repositorio local). También podés tener un repositorio remoto conectado a tu directorio Git.
 
