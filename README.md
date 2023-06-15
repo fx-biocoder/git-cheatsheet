@@ -130,7 +130,6 @@ $ git branch
 
 This command will print the branch you're currently working on.
 
-- [Read: git-branch docs](https://git-scm.com/docs/git-branch)
 
 ### Create new branch
 
