@@ -2,6 +2,10 @@
 
 ![Git banner. Created by Facundo Martínez (c) 2023, licensed under CC BY-NC-SA 4.0](https://github.com/fx-biocoder/git-cheatsheet/assets/90737264/ecba0e06-a547-45d2-9150-2ffc1bd1297d)
 
+## Versión en español
+
+[Click acá](https://github.com/fx-biocoder/git-cheatsheet/blob/main/Versi%C3%B3n%20en%20espa%C3%B1ol/README.md)
+
 ## 1. What is Git?
 
 Git is a distributed version control system used to track changes made to a set of files by individuals or groups. It is a FOSS (free and open-source) tool that is widely utilized by companies due to its efficiency and speed.
